@@ -23,6 +23,9 @@ It highlights key metrics including:
 📂 **File(s) Included**
 - [McDonald's South America Sales Overview 2022.xlsx](https://github.com/user-attachments/files/19806349/McDonald.s.South.America.Sales.Overview.2022.xlsx) – Excel dashboard file
 
+
+**[Dashboard Screenshot]** ![McDonald's South America Sales Overview 2022](https://github.com/user-attachments/assets/a0648f60-13cd-4c88-9a6b-c159e12387c2)
+
 ---
 
 🔗 [Return to Portfolio](https://tolusdigitalcorner.com)
